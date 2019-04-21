@@ -4,14 +4,6 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-
-$table->string('name');
-$table->string('flavor_text');
-$table->string('image_url');
-$table->integer('gun_brand_id');
-$table->integer('item_type_id');
-$table->integer('game_id');
-
 class Legendaries extends Model
 {
     protected $fillable = [
