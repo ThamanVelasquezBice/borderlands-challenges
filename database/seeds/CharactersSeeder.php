@@ -1,6 +1,10 @@
 <?php
 
+use Illuminate\Support\Str;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
+use App\Models\ChallengeDescriptions;
+use Carbon\Carbon;
 
 class CharactersSeeder extends Seeder
 {
