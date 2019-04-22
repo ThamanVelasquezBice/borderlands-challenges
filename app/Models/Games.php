@@ -24,4 +24,9 @@ class Games extends Model
     {
         return $this->hasMany('App\Models\GunBrands');
     }
+
+    public function item_types()
+    {
+        return $this->hasMany('App\Models\ItemTypes');
+    }
 }

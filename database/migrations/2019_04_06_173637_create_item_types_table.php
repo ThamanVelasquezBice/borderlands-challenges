@@ -17,6 +17,7 @@ class CreateItemTypesTable extends Migration
             $table->bigIncrements('id');
             $table->string('name');
             $table->boolean('is_a_weapon');
+            $table->integer('game_id');
             $table->timestamps();
         });
     }
