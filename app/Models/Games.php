@@ -19,4 +19,9 @@ class Games extends Model
     {
         return $this->hasMany('App\Models\Legendaries');
     }
+
+    public function brands()
+    {
+        return $this->hasMany('App\Models\GunBrands');
+    }
 }

@@ -17,6 +17,7 @@ class CreateGunBrandsTable extends Migration
             $table->bigIncrements('id');
             $table->string('name');
             $table->string('image_url');
+            $table->integer('game_id');
             $table->timestamps();
         });
     }
