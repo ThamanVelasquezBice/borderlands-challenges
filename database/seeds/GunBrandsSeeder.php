@@ -63,6 +63,18 @@ class GunBrandsSeeder extends Seeder
                 'name' => 'Vladof',
                 'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/5/5e/Vladof.png',
                 'game_id' => '2'
+            ],
+            [
+                'id' => '9',
+                'name' => 'Anshin',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/5/5e/Anshin.png/revision/latest/scale-to-width-down/300?cb=20180228133356',
+                'game_id' => '2'
+            ],
+            [
+                'id' => '10',
+                'name' => 'Pangolin',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/28/Pangolin.png/revision/latest/scale-to-width-down/350?cb=20180228145914',
+                'game_id' => '2'
             ]
         ]);
     }
