@@ -139,9 +139,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '13',
                 'name' => 'Legendary Soldier',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'It\'s like Christmas',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/2b/2012-12-20_00005.jpg/revision/latest/scale-to-width-down/619?cb=20121220132219',
+                'gun_brand_id' => '2',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -149,9 +149,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '14',
                 'name' => 'Legendary Nurse',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'A friend',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/c/cc/Nurse.png/revision/latest/scale-to-width-down/620?cb=20140819024346',
+                'gun_brand_id' => '9',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -159,9 +159,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '15',
                 'name' => 'Legendary Killer',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Well, that escalated quickly.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/23/2014-02-07_00003.jpg/revision/latest/scale-to-width-down/619?cb=20140207182459',
+                'gun_brand_id' => '3',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -169,9 +169,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '16',
                 'name' => 'Legendary Mechromancer',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'I am such a B.A.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/c/c9/Legendary_mechromancer_class_mod.jpg/revision/latest/scale-to-width-down/619?cb=20121219222317',
+                'gun_brand_id' => '3',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -179,9 +179,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '17',
                 'name' => 'Legendary Roboteer',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Science, my sweetest valentine!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/b/b9/Legendary_Roboteer.png/revision/latest/scale-to-width-down/620?cb=20140819025829',
+                'gun_brand_id' => '3',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -189,9 +189,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '18',
                 'name' => 'Legendary Cat',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Rawr.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/0/0f/Legendary_cat.jpg/revision/latest/scale-to-width-down/619?cb=20130907052554',
+                'gun_brand_id' => '3',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -199,9 +199,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '19',
                 'name' => 'Legendary Hunter',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'I never die.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/0/04/BL2_Legendary_Hunter_Class.jpg/revision/latest/scale-to-width-down/619?cb=20121007060655',
+                'gun_brand_id' => '4',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -209,9 +209,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '20',
                 'name' => 'Legendary Sniper',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Boom! Headshot.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/f/f1/LegendarySniper.jpg/revision/latest/scale-to-width-down/620?cb=20140819030220',
+                'gun_brand_id' => '4',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -219,9 +219,10 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '21',
                 'name' => 'Legendary Psycho',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => '- One day I\'ll escape this hell and you\'ll be gone.
+                                  - NIPPLE SALADS!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/c/ce/Legendary_Psycho.png/revision/latest/scale-to-width-down/619?cb=20130419145241',
+                'gun_brand_id' => '2',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -229,9 +230,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '22',
                 'name' => 'Legendary Berserker',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Never look at my fist.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/0/0f/2012-12-21_00001.jpg/revision/latest/scale-to-width-down/619?cb=20121221201336',
+                'gun_brand_id' => '1',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -239,9 +240,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '23',
                 'name' => 'Legendary Titan',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Challenge accepted.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/1/10/Legendary_titan_lvl63.jpg/revision/latest/scale-to-width-down/619?cb=20130909064556',
+                'gun_brand_id' => '9',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -249,9 +250,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '24',
                 'name' => 'Legendary Siren',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => '(Giggles) I\'m really good at this.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/d/dd/Fry_legendary_siren.jpg/revision/latest/scale-to-width-down/619?cb=20121221013422',
+                'gun_brand_id' => '5',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -259,9 +260,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '25',
                 'name' => 'Legendary Pointman',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Point taken.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/c/c7/2013-11-02_00002.jpg/revision/latest/scale-to-width-down/620?cb=20131102142759',
+                'gun_brand_id' => '10',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -269,9 +270,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '26',
                 'name' => 'Legendary Ninja',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'In the midst of combat, keep stillness inside of you.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/d/d2/Symoniz.jpg/revision/latest/scale-to-width-down/620?cb=20130919044352',
+                'gun_brand_id' => '5',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -279,9 +280,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '27',
                 'name' => 'Legendary Catalyst',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Shocking, isn\'t it?',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/0/0a/2013-09-04_00004.jpg/revision/latest/scale-to-width-down/620?cb=20130905004533',
+                'gun_brand_id' => '5',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -289,9 +290,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '28',
                 'name' => 'Legendary Binder',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Please hold.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/e/e1/Legendary_binder.jpg/revision/latest/scale-to-width-down/619?cb=20130911163738',
+                'gun_brand_id' => '5',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -299,9 +300,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '29',
                 'name' => 'Legendary Gunzerker',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Nobody puts this baby in a corner.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/f/f0/Legendary_Gunzerker.jpg/revision/latest/scale-to-width-down/619?cb=20130914033715',
+                'gun_brand_id' => '7',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -309,9 +310,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '30',
                 'name' => 'Legendary Hoarder',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Ain\'t got time for dilly-dally',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/d/d8/Legendary_Hoarder.png/revision/latest/scale-to-width-down/619?cb=20131016145441',
+                'gun_brand_id' => '8',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -319,9 +320,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '31',
                 'name' => 'Legendary Anarchist',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Chaos is a friend of mine.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/3/30/Ann.png/revision/latest/scale-to-width-down/620?cb=20140819023916',
+                'gun_brand_id' => '8',
                 'item_type_id' => '4',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -329,20 +330,20 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '32',
                 'name' => 'Nasty Surprise',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'Supplies!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/8/84/Snap007.jpg/revision/latest/scale-to-width-down/620?cb=20121009124928',
+                'gun_brand_id' => '3',
+                'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
             [
                 'id' => '33',
                 'name' => 'Quasar',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'E=mc^(OMG)/wtf ',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/d/d4/Quasar_1920.jpg/revision/latest/scale-to-width-down/620?cb=20121227103443',
+                'gun_brand_id' => '3',
+                'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -352,7 +353,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -362,7 +363,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -372,7 +373,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -382,7 +383,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -392,7 +393,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -402,7 +403,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -412,7 +413,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -422,7 +423,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -432,7 +433,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -442,7 +443,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -452,7 +453,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -462,7 +463,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -482,7 +483,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -492,7 +493,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -502,17 +503,17 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
             [
                 'id' => '50',
-                'name' => 'Gunerand',
+                'name' => 'Gunerang',
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -522,7 +523,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -532,7 +533,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -542,7 +543,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '9',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -552,7 +553,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '9',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -562,7 +563,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '9',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -572,7 +573,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '9',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -582,7 +583,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '9',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -592,7 +593,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '9',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -602,7 +603,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -612,7 +613,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -622,7 +623,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -632,7 +633,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -642,7 +643,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -652,7 +653,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -662,7 +663,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -672,7 +673,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -682,7 +683,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -692,7 +693,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -702,7 +703,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -712,7 +713,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '8',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -722,7 +723,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '8',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -732,7 +733,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '8',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -742,7 +743,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '8',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -752,7 +753,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '8',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -762,7 +763,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '8',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -772,7 +773,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '10',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -782,7 +783,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '10',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -792,7 +793,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '10',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -802,7 +803,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '10',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -812,7 +813,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '10',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -822,7 +823,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '5',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -832,7 +833,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '5',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -842,7 +843,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '5',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -852,7 +853,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '5',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
@@ -862,7 +863,7 @@ class LegendariesSeeder extends Seeder
                 'flavor_text' => '',
                 'image_url' => '',
                 'gun_brand_id' => '',
-                'item_type_id' => '',
+                'item_type_id' => '5',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ]
