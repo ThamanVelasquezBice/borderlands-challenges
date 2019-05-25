@@ -75,6 +75,12 @@ class GunBrandsSeeder extends Seeder
                 'name' => 'Pangolin',
                 'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/28/Pangolin.png/revision/latest/scale-to-width-down/350?cb=20180228145914',
                 'game_id' => '2'
+            ],
+            [
+                'id' => '11',
+                'name' => 'Eridian',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/2e/EridianTrademarkBase.png/revision/latest/scale-to-width-down/350?cb=20180303011418',
+                'game_id' => '2'
             ]
         ]);
     }

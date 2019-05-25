@@ -350,9 +350,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '34',
                 'name' => 'Bouncing Bonny',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Your sister is such a bitch.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/e/ec/Bonnie.jpg/revision/latest/scale-to-width-down/620?cb=20121024003418',
+                'gun_brand_id' => '2',
                 'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -360,9 +360,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '35',
                 'name' => 'Fastball',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Forget the curveball Ricky, give him the heater.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/2f/2013-10-25_00001.jpg/revision/latest/scale-to-width-down/620?cb=20131025160502',
+                'gun_brand_id' => '6',
                 'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -370,9 +370,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '36',
                 'name' => 'Chain Lightning',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Don\'t pay it back, pay it forward.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/a/a1/Chain_lightning.png/revision/latest?cb=20130626161122',
+                'gun_brand_id' => '5',
                 'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -380,9 +380,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '37',
                 'name' => 'Leech',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'A skillful leech is better far, than half a hundred men of war.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/e/ee/Leech.jpg/revision/latest/scale-to-width-down/619?cb=20120928194618',
+                'gun_brand_id' => '5',
                 'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -390,9 +390,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '38',
                 'name' => 'Fire Storm',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'What manner of man are you that can summon up fire without flint or tinder?',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/6/60/Fire_storm.png/revision/latest?cb=20130626161352',
+                'gun_brand_id' => '5',
                 'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -400,9 +400,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '39',
                 'name' => 'Rolling Thunder',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'The thunder shall bring forth the pain!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/6/65/Rolling_Thunder.jpg/revision/latest/scale-to-width-down/619?cb=20120928221904',
+                'gun_brand_id' => '7',
                 'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -410,9 +410,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '40',
                 'name' => 'Bonus Package',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => '2x more awesome, bonus extreme!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/24/Sticky_Homing_Bonus_P.jpg/revision/latest/scale-to-width-down/620?cb=20121222185646',
+                'gun_brand_id' => '7',
                 'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -420,9 +420,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '41',
                 'name' => 'Fire Bee',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Bees are coming!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/0/09/Fire_Bee.jpg/revision/latest/scale-to-width-down/619?cb=20121021062545',
+                'gun_brand_id' => '8',
                 'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -430,9 +430,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '42',
                 'name' => 'Pandemic',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Spread the sickness.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/3/3b/Vladof_Pandemic.jpg/revision/latest/scale-to-width-down/620?cb=20130417150719',
+                'gun_brand_id' => '8',
                 'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -440,9 +440,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '43',
                 'name' => 'Storm Front',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Sometimes lightning does strike twice',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/a/a2/Homing_Storm_Front.jpg/revision/latest/scale-to-width-down/620?cb=20121004104231',
+                'gun_brand_id' => '8',
                 'item_type_id' => '1',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -450,9 +450,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '44',
                 'name' => 'Maggie',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Monty\'s wife don\'t take no guff.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/7/76/Pistol_Jakobs_Maggie_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706163635',
+                'gun_brand_id' => '4',
                 'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -460,9 +460,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '45',
                 'name' => 'Unkempt Harold',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Did I fire six shots, or only five? Three? Seven. Whatever.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/1/19/Pistol_Torgue_Unkempt_Harold_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706162939',
+                'gun_brand_id' => '7',
                 'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -470,19 +470,19 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '46',
                 'name' => 'Blood of Terramorphous',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => '...His blood could inspire...',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/6/61/Blood.jpg/revision/latest/scale-to-width-down/620?cb=20121008032829',
+                'gun_brand_id' => '11',
+                'item_type_id' => '3',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
             [
                 'id' => '47',
                 'name' => 'Logan\'s Gun',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Gun, Gunner!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/9/91/Logan%27s_Gun_50.jpg/revision/latest/scale-to-width-down/619?cb=20121123122848',
+                'gun_brand_id' => '3',
                 'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -490,9 +490,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '48',
                 'name' => 'Gub',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Abt Natural',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/0/03/Double_Gub.png/revision/latest/scale-to-width-down/620?cb=20121026174019',
+                'gun_brand_id' => '1',
                 'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -500,9 +500,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '49',
                 'name' => 'Hornet',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Fear the Swarm!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/3/3f/2013-05-29_00001.jpg/revision/latest/scale-to-width-down/620?cb=20130530024953',
+                'gun_brand_id' => '2',
                 'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -510,9 +510,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '50',
                 'name' => 'Gunerang',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Give it a burl.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/a/ab/Pistol_Tediore_Gunerang_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706163245',
+                'gun_brand_id' => '6',
                 'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -520,9 +520,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '51',
                 'name' => 'Thunderball Fists',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'I can have such a thing?',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/0/0b/Pistol_Maliwan_Thunderball_Fists_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706163504',
+                'gun_brand_id' => '5',
                 'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -530,9 +530,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '52',
                 'name' => 'Infinity',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'It\'s closer than you think! (no it isn\'t)',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/e/e3/Pistol_Vladof_Infinity_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706162536',
+                'gun_brand_id' => '8',
                 'item_type_id' => '6',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -540,9 +540,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '53',
                 'name' => 'Badaboom',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Multi-kill.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/f/fe/Rocket_Launcher_Bandit_Badaboom_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706161729',
+                'gun_brand_id' => '7',
                 'item_type_id' => '9',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -550,9 +550,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '54',
                 'name' => 'Norfleet',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Blows Up Everything!!!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/7/75/BL2_Norfleet.jpg/revision/latest/scale-to-width-down/619?cb=20121007060720',
+                'gun_brand_id' => '5',
                 'item_type_id' => '9',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -560,9 +560,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '55',
                 'name' => 'Pyrophobia',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'It\'s actually a fairly rational fear in this case.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/d/d0/Rocket_Launcher_Maliwan_Pyrophobia_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706162233',
+                'gun_brand_id' => '5',
                 'item_type_id' => '9',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -570,9 +570,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '56',
                 'name' => 'Nukem',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Name Dropper.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/8/84/Nukem_transparant.png/revision/latest/scale-to-width-down/619?cb=20180210193547',
+                'gun_brand_id' => '7',
                 'item_type_id' => '9',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -580,9 +580,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '57',
                 'name' => 'Bunny',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Hippity Hoppity!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/8/84/Rocket_Launcher_Tediore_Bunny_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706162000',
+                'gun_brand_id' => '6',
                 'item_type_id' => '9',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -590,9 +590,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '58',
                 'name' => 'Mongol',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'The Horde will always return!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/4/44/Rocket_Launcher_Vladof_Mongol_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706161020',
+                'gun_brand_id' => '8',
                 'item_type_id' => '9',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -600,9 +600,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '59',
                 'name' => 'The Transformer',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'There\'s more than your eye can see.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/2a/2012-12-27_00001.jpg/revision/latest/scale-to-width-down/250?cb=20121228020537',
+                'gun_brand_id' => '8',
                 'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -610,9 +610,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '60',
                 'name' => 'The Sham',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Wow, I CAN do this all day.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/a/a7/The_Sham.jpg/revision/latest/scale-to-width-down/250?cb=20121211191819',
+                'gun_brand_id' => '8',
                 'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -620,9 +620,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '61',
                 'name' => 'Neogenator',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'For an impenetrable shield stand inside yourself',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/2f/Fry_neogenator.jpg/revision/latest/scale-to-width-down/250?cb=20130217213906',
+                'gun_brand_id' => '9',
                 'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -630,9 +630,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '62',
                 'name' => 'The Bee',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Float like a butterfly...',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/9/97/NOhara_The_Bee.jpg/revision/latest/scale-to-width-down/250?cb=20121115015841',
+                'gun_brand_id' => '3',
                 'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -640,9 +640,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '63',
                 'name' => 'Whisky Tango Foxtrot',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Situation normal... ...all foxtrored up.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/b/bf/Whisky_Tango_Foxtrot.png/revision/latest/scale-to-width-down/250?cb=20120924114043',
+                'gun_brand_id' => '2',
                 'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -650,9 +650,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '64',
                 'name' => 'Flame of the Firehawk',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'From the ashes she will rise.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/1/10/Flame_of_the_Firehawk.jpg/revision/latest/scale-to-width-down/250?cb=20121212005343',
+                'gun_brand_id' => '5',
                 'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -660,9 +660,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '65',
                 'name' => 'Black Hole',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'You are the center of the universe.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/9/9d/Black_Hole.png/revision/latest/scale-to-width-down/250?cb=20121111173932',
+                'gun_brand_id' => '5',
                 'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -670,9 +670,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '66',
                 'name' => 'Impaler',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Vlad would be proud.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/1/12/BL2_Impaler.jpg/revision/latest/scale-to-width-down/250?cb=20121003083949',
+                'gun_brand_id' => '5',
                 'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -680,9 +680,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '67',
                 'name' => 'The Cradle',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => '...to the grave.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/0/02/BlastproofTheCradle1.png/revision/latest/scale-to-width-down/250?cb=20121022094510',
+                'gun_brand_id' => '6',
                 'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -690,9 +690,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '68',
                 'name' => 'Hide of Terramorphous',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => '...His hide turned the mightiest tame...',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/a/ac/Hideofterry.jpg/revision/latest/scale-to-width-down/250?cb=20121008165216',
+                'gun_brand_id' => '1',
                 'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -700,9 +700,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '69',
                 'name' => 'Fabled Tortoise',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Win by a hare',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/8/85/Fry_f_tortoise.jpg/revision/latest/scale-to-width-down/619?cb=20130217214227',
+                'gun_brand_id' => '10',
                 'item_type_id' => '2',
                 'game_id' => '2',
                 'loot_source_id' => ''
