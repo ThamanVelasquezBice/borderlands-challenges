@@ -710,9 +710,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '70',
                 'name' => 'Striker',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Fandir? Thirteen.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/2c/Shotgun_Jakobs_Striker_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706160200',
+                'gun_brand_id' => '4',
                 'item_type_id' => '8',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -720,9 +720,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '71',
                 'name' => 'Conference Call',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Let\'s just ping everyone all at once.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/1/1d/BL2_Conference_Call.jpg/revision/latest/scale-to-width-down/619?cb=20121003083822',
+                'gun_brand_id' => '3',
                 'item_type_id' => '8',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -730,9 +730,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '72',
                 'name' => 'Sledge\'s Shotgun',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'The legend lives.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/5/5a/Shotgun_Bandit_Sledge%27s_Shotgun_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706160610',
+                'gun_brand_id' => '1',
                 'item_type_id' => '8',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -740,9 +740,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '73',
                 'name' => 'Deliverance',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Kiki got a shotgun',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/6/61/BL2_Deliverance.jpg/revision/latest/scale-to-width-down/619?cb=20121003083828',
+                'gun_brand_id' => '6',
                 'item_type_id' => '8',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -750,9 +750,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '74',
                 'name' => 'Flakker',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Flak The World',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/7/7c/Shotgun_Torgue_Flakker_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706155732',
+                'gun_brand_id' => '7',
                 'item_type_id' => '8',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -760,9 +760,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '75',
                 'name' => 'Skullmasher',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Makes your brain hurt.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/5/5f/Sniper_Jakobs_Skullmasher_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706152427',
+                'gun_brand_id' => '4',
                 'item_type_id' => '8',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -770,9 +770,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '76',
                 'name' => 'Invader',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'The Executioner has arrived.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/b/b0/Sniper_Hyperion_Invader_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706152706',
+                'gun_brand_id' => '3',
                 'item_type_id' => '10',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -780,9 +780,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '77',
                 'name' => 'Longbow',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Ceci n\'est pas une sniper rifle!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/3/3f/Longitudinal_Longbow.jpg/revision/latest/scale-to-width-down/619?cb=20121002080824',
+                'gun_brand_id' => '3',
                 'item_type_id' => '10',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -790,9 +790,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '78',
                 'name' => 'Pitchfork',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Mainstream\'d!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/9/99/Sniper_Dahl_Pitchfork_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706153028',
+                'gun_brand_id' => '2',
                 'item_type_id' => '10',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -800,9 +800,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '79',
                 'name' => 'Volcano',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Pele humbly requests a sacrifice, if it\'s not too much trouble.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/6/6b/Sniper_Maliwan_Volcano_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706152125',
+                'gun_brand_id' => '5',
                 'item_type_id' => '10',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -810,9 +810,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '80',
                 'name' => 'Lyuda',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Man Killer',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/7/7b/Sniper_Vladof_Lyuda_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706151856',
+                'gun_brand_id' => '8',
                 'item_type_id' => '10',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -820,9 +820,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '81',
                 'name' => 'Bitch',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'yup. back.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/e/ee/SMG_Hyperion_B%2Atch_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706153916',
+                'gun_brand_id' => '3',
                 'item_type_id' => '5',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -830,9 +830,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '82',
                 'name' => 'Emperor',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'you know... for him.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/d/d2/Emperor_Lv9.png/revision/latest/scale-to-width-down/619?cb=20121010221107',
+                'gun_brand_id' => '2',
                 'item_type_id' => '5',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -840,9 +840,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '83',
                 'name' => 'Slagga',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'blagaga',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/27/SMG_Bandit_Slagga_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706155443',
+                'gun_brand_id' => '1',
                 'item_type_id' => '5',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -850,9 +850,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '84',
                 'name' => 'Hellfire',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'We don\'t need no fire...',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/8/87/SMG_Maliwan_Hellfire_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706153554',
+                'gun_brand_id' => '5',
                 'item_type_id' => '5',
                 'game_id' => '2',
                 'loot_source_id' => ''
@@ -860,9 +860,9 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '85',
                 'name' => 'Baby Maker',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
+                'flavor_text' => 'Who\'s a widdle gunny wunny!!!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/7/7a/SMG_Tediore_Baby_Maker_%28Inspect_View%29.jpg/revision/latest/scale-to-width-down/619?cb=20170706153327',
+                'gun_brand_id' => '6',
                 'item_type_id' => '5',
                 'game_id' => '2',
                 'loot_source_id' => ''
