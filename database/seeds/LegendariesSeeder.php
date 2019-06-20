@@ -24,7 +24,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '1',
                 'item_type_id' => '7',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '25'
             ],
             [
                 'id' => '2',
@@ -34,7 +34,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '2',
                 'item_type_id' => '7',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '30'
             ],
             [
                 'id' => '3',
@@ -44,7 +44,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '4',
                 'item_type_id' => '7',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '27'
             ],
             [
                 'id' => '4',
@@ -54,7 +54,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '7',
                 'item_type_id' => '7',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '29'
             ],
             [
                 'id' => '5',
@@ -64,7 +64,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '7',
                 'item_type_id' => '7',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '20'
             ],
             [
                 'id' => '6',
@@ -74,7 +74,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '8',
                 'item_type_id' => '7',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '34'
             ],
             [
                 'id' => '7',
@@ -84,7 +84,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '1',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '8',
@@ -94,7 +94,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '1',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '9',
@@ -104,7 +104,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '1',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '10',
@@ -114,7 +114,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '43'
             ],
             [
                 'id' => '11',
@@ -124,7 +124,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '9',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '12',
@@ -134,7 +134,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '2',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '13',
@@ -144,7 +144,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '2',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '47'
             ],
             [
                 'id' => '14',
@@ -154,7 +154,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '9',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '15',
@@ -164,7 +164,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '3',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '16',
@@ -174,7 +174,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '3',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '47'
             ],
             [
                 'id' => '17',
@@ -184,7 +184,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '3',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '18',
@@ -194,7 +194,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '3',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '19',
@@ -204,7 +204,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '4',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '47'
             ],
             [
                 'id' => '20',
@@ -214,7 +214,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '4',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '21',
@@ -225,7 +225,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '2',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '47'
             ],
             [
                 'id' => '22',
@@ -235,7 +235,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '1',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '47'
             ],
             [
                 'id' => '23',
@@ -245,7 +245,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '9',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '24',
@@ -255,7 +255,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '47'
             ],
             [
                 'id' => '25',
@@ -265,7 +265,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '10',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '26',
@@ -275,7 +275,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '27',
@@ -285,7 +285,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '28',
@@ -295,7 +295,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '29',
@@ -305,7 +305,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '7',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '30',
@@ -315,7 +315,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '8',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '31',
@@ -325,7 +325,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '8',
                 'item_type_id' => '4',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '32',
@@ -335,7 +335,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '3',
                 'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '47'
             ],
             [
                 'id' => '33',
@@ -345,7 +345,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '3',
                 'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '46'
             ],
             [
                 'id' => '34',
@@ -355,7 +355,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '2',
                 'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '24'
             ],
             [
                 'id' => '35',
@@ -365,7 +365,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '6',
                 'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '6'
             ],
             [
                 'id' => '36',
@@ -375,7 +375,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '2'
             ],
             [
                 'id' => '37',
@@ -385,7 +385,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '45'
             ],
             [
                 'id' => '38',
@@ -395,7 +395,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '2'
             ],
             [
                 'id' => '39',
@@ -405,7 +405,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '7',
                 'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '48'
             ],
             [
                 'id' => '40',
@@ -415,7 +415,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '7',
                 'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '7'
             ],
             [
                 'id' => '41',
@@ -425,7 +425,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '8',
                 'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '24'
             ],
             [
                 'id' => '42',
@@ -435,7 +435,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '8',
                 'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '31'
             ],
             [
                 'id' => '43',
@@ -445,7 +445,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '8',
                 'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '23'
             ],
             [
                 'id' => '44',
@@ -455,7 +455,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '4',
                 'item_type_id' => '6',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '28'
             ],
             [
                 'id' => '45',
@@ -465,7 +465,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '7',
                 'item_type_id' => '6',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '37'
             ],
             [
                 'id' => '46',
@@ -475,7 +475,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '11',
                 'item_type_id' => '3',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '43'
             ],
             [
                 'id' => '47',
@@ -485,7 +485,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '3',
                 'item_type_id' => '6',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '48'
             ],
             [
                 'id' => '48',
@@ -495,7 +495,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '1',
                 'item_type_id' => '6',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '22'
             ],
             [
                 'id' => '49',
@@ -505,7 +505,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '2',
                 'item_type_id' => '6',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '21'
             ],
             [
                 'id' => '50',
@@ -515,7 +515,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '6',
                 'item_type_id' => '6',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '35'
             ],
             [
                 'id' => '51',
@@ -525,7 +525,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '6',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '8'
             ],
             [
                 'id' => '52',
@@ -535,7 +535,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '8',
                 'item_type_id' => '6',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '10'
             ],
             [
                 'id' => '53',
@@ -545,7 +545,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '7',
                 'item_type_id' => '9',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '19'
             ],
             [
                 'id' => '54',
@@ -555,7 +555,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '9',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '47'
             ],
             [
                 'id' => '55',
@@ -565,7 +565,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '9',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '17'
             ],
             [
                 'id' => '56',
@@ -575,7 +575,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '7',
                 'item_type_id' => '9',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '44'
             ],
             [
                 'id' => '57',
@@ -585,7 +585,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '6',
                 'item_type_id' => '9',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '58',
@@ -595,7 +595,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '8',
                 'item_type_id' => '9',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '11'
             ],
             [
                 'id' => '59',
@@ -605,7 +605,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '8',
                 'item_type_id' => '2',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '33'
             ],
             [
                 'id' => '60',
@@ -615,7 +615,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '8',
                 'item_type_id' => '2',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '4'
             ],
             [
                 'id' => '61',
@@ -625,7 +625,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '9',
                 'item_type_id' => '2',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '41'
             ],
             [
                 'id' => '62',
@@ -635,7 +635,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '3',
                 'item_type_id' => '2',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '16'
             ],
             [
                 'id' => '63',
@@ -645,7 +645,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '2',
                 'item_type_id' => '2',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '9'
             ],
             [
                 'id' => '64',
@@ -665,7 +665,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '2',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '12'
             ],
             [
                 'id' => '66',
@@ -675,7 +675,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '2',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '45'
             ],
             [
                 'id' => '67',
@@ -685,7 +685,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '6',
                 'item_type_id' => '2',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '14'
             ],
             [
                 'id' => '68',
@@ -695,7 +695,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '1',
                 'item_type_id' => '2',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '43'
             ],
             [
                 'id' => '69',
@@ -705,7 +705,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '10',
                 'item_type_id' => '2',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '3'
             ],
             [
                 'id' => '70',
@@ -715,7 +715,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '4',
                 'item_type_id' => '8',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '32'
             ],
             [
                 'id' => '71',
@@ -725,7 +725,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '3',
                 'item_type_id' => '8',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '45'
             ],
             [
                 'id' => '72',
@@ -735,7 +735,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '1',
                 'item_type_id' => '8',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '39'
             ],
             [
                 'id' => '73',
@@ -745,7 +745,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '6',
                 'item_type_id' => '8',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '15'
             ],
             [
                 'id' => '74',
@@ -755,7 +755,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '7',
                 'item_type_id' => '8',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '45'
             ],
             [
                 'id' => '75',
@@ -765,7 +765,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '4',
                 'item_type_id' => '8',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '40'
             ],
             [
                 'id' => '76',
@@ -775,7 +775,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '3',
                 'item_type_id' => '10',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '36'
             ],
             [
                 'id' => '77',
@@ -785,7 +785,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '3',
                 'item_type_id' => '10',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '1'
             ],
             [
                 'id' => '78',
@@ -795,7 +795,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '2',
                 'item_type_id' => '10',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '43'
             ],
             [
                 'id' => '79',
@@ -805,7 +805,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '10',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '45'
             ],
             [
                 'id' => '80',
@@ -815,7 +815,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '8',
                 'item_type_id' => '10',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '13'
             ],
             [
                 'id' => '81',
@@ -825,7 +825,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '3',
                 'item_type_id' => '5',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '4'
             ],
             [
                 'id' => '82',
@@ -835,7 +835,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '2',
                 'item_type_id' => '5',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '49'
             ],
             [
                 'id' => '83',
@@ -845,7 +845,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '1',
                 'item_type_id' => '5',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '42'
             ],
             [
                 'id' => '84',
@@ -855,7 +855,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '5',
                 'item_type_id' => '5',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '38'
             ],
             [
                 'id' => '85',
@@ -865,7 +865,7 @@ class LegendariesSeeder extends Seeder
                 'gun_brand_id' => '6',
                 'item_type_id' => '5',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '26'
             ]
         ]);
     }

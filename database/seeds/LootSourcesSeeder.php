@@ -54,9 +54,9 @@ class ChallengeTypesSeeder extends Seeder
             ],
             [
                 'id' => '5',
-                'name' => '',
-                'region' => '',
-                'image_url' => '',
+                'name' => 'Clark the Combusted Cryptkeeper',
+                'region' => 'Hallowed Hollows',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/f/fb/Combusted_Gatekeeper_Infoboxpic_2.jpg/revision/latest/scale-to-width-down/620?cb=20180130213030',
                 'game_id' => '2',
                 'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')
@@ -144,9 +144,9 @@ class ChallengeTypesSeeder extends Seeder
             ],
             [
                 'id' => '15',
-                'name' => '',
-                'region' => '',
-                'image_url' => '',
+                'name' => 'Tumbaa',
+                'region' => 'Wildlife Exploitation Preserve',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/3/37/Tumbaa.jpg/revision/latest/scale-to-width-down/620?cb=20170111000104',
                 'game_id' => '2',
                 'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')
@@ -165,15 +165,6 @@ class ChallengeTypesSeeder extends Seeder
                 'name' => 'Incinerator Clayton',
                 'region' => 'Frostburn Canyon',
                 'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/f/fd/Incinerator_clayton01.png/revision/latest/scale-to-width-down/310?cb=20120926003151',
-                'game_id' => '2',
-                'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
-                'updated_at' => Carbon::now()->format('Y-m-d H:i:s')
-            ],
-            [
-                'id' => '18',
-                'name' => '',
-                'region' => '',
-                'image_url' => '',
                 'game_id' => '2',
                 'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')
