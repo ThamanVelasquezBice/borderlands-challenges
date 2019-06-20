@@ -866,6 +866,136 @@ class LegendariesSeeder extends Seeder
                 'item_type_id' => '5',
                 'game_id' => '2',
                 'loot_source_id' => '26'
+            ],
+            [
+                'id' => '86',
+                'name' => 'Toothpick',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
+            ],
+            [
+                'id' => '87',
+                'name' => 'Mouthwash',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
+            ],
+            [
+                'id' => '88',
+                'name' => 'Retainer',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
+            ],
+            [
+                'id' => '89',
+                'name' => 'Hard Carry',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
+            ],
+            [
+                'id' => '90',
+                'name' => 'Easy Mode',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
+            ],
+            [
+                'id' => '91',
+                'name' => 'Peak Opener',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
+            ],
+            [
+                'id' => '92',
+                'name' => 'Hot Mama',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
+            ],
+            [
+                'id' => '93',
+                'name' => 'Nirvana',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
+            ],
+            [
+                'id' => '94',
+                'name' => 'Infection Cleaner',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
+            ],
+            [
+                'id' => '95',
+                'name' => 'World Burn',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
+            ],
+            [
+                'id' => '96',
+                'name' => 'Unicornsplosion',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
+            ],
+            [
+                'id' => '97',
+                'name' => 'Antifection',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
+            ],
+            [
+                'id' => '98',
+                'name' => 'The Electric Chair',
+                'flavor_text' => '',
+                'image_url' => '',
+                'gun_brand_id' => '',
+                'item_type_id' => '',
+                'game_id' => '2',
+                'loot_source_id' => ''
             ]
         ]);
     }
