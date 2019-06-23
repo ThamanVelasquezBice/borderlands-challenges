@@ -12,11 +12,21 @@ class Games extends Model
 
     public function characters()
     {
-        return $this->hasMany('App\Models\Characters');
+        return $this->hasMany('App\Models\Characters', 'game_id');
     }
 
     public function legendaries()
     {
-        return $this->hasMany('App\Models\Legendaries');
+        return $this->hasMany('App\Models\Legendaries', 'game_id');
+    }
+
+    public function brands()
+    {
+        return $this->hasMany('App\Models\GunBrands', 'game_id');
+    }
+
+    public function item_types()
+    {
+        return $this->hasMany('App\Models\ItemTypes', 'game_id');
     }
 }
