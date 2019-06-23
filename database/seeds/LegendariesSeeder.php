@@ -870,132 +870,132 @@ class LegendariesSeeder extends Seeder
             [
                 'id' => '86',
                 'name' => 'Toothpick',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'A simple solution to a dire problem.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/6/63/Toothpick.jpg/revision/latest/scale-to-width-down/620?cb=20190610004939',
+                'gun_brand_id' => '2',
+                'item_type_id' => '7',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '58'
             ],
             [
                 'id' => '87',
                 'name' => 'Mouthwash',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'Gargle and spit.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/28/20190610141033_1.jpg/revision/latest/scale-to-width-down/620?cb=20190610112304',
+                'gun_brand_id' => '11',
+                'item_type_id' => '3',
                 'game_id' => '2',
                 'loot_source_id' => ''
             ],
             [
                 'id' => '88',
                 'name' => 'Retainer',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'Retains your guts inside your body, where they belong.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/1/17/BL2_Retainer.jpg/revision/latest/scale-to-width-down/250?cb=20190610035727',
+                'gun_brand_id' => '3',
+                'item_type_id' => '2',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '58'
             ],
             [
                 'id' => '89',
                 'name' => 'Hard Carry',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'Tough to lose when you\'re this broken.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/a/af/Hard_Carry.jpg/revision/latest/scale-to-width-down/619?cb=20190611125922',
+                'gun_brand_id' => '11',
+                'item_type_id' => '3',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '51'
             ],
             [
                 'id' => '90',
                 'name' => 'Easy Mode',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'Keep the pressure up without getting bodied.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/1/12/Easy_Mode.jpg/revision/latest/scale-to-width-down/250?cb=20190610022425',
+                'gun_brand_id' => '5',
+                'item_type_id' => '2',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '51'
             ],
             [
                 'id' => '91',
                 'name' => 'Peak Opener',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'Top-tier pick for optimal play.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/f/f7/Peak_opener.png/revision/latest/scale-to-width-down/619?cb=20190610051614',
+                'gun_brand_id' => '7',
+                'item_type_id' => '7',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '51'
             ],
             [
                 'id' => '92',
                 'name' => 'Hot Mama',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'Sniper is a lonely occupation.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/0/03/Hm2.jpg/revision/latest?cb=20190610105144',
+                'gun_brand_id' => '4',
+                'item_type_id' => '10',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '52'
             ],
             [
                 'id' => '93',
                 'name' => 'Nirvana',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'Look, life\'s a bitch. Get over it. Burn something to the ground.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/4/48/20190609181312_1.jpg/revision/latest/scale-to-width-down/619?cb=20190610002040',
+                'gun_brand_id' => '5',
+                'item_type_id' => '5',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '50'
             ],
             [
                 'id' => '94',
                 'name' => 'Infection Cleaner',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'Shhh. I\'ll take care of everything, don\'t you fret.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/5/52/Infection_Cleaner.jpg/revision/latest/scale-to-width-down/619?cb=20190610023143',
+                'gun_brand_id' => '6',
+                'item_type_id' => '5',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '57'
             ],
             [
                 'id' => '95',
                 'name' => 'World Burn',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'War does not compute.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/1/1f/World_burn.jpg/revision/latest/scale-to-width-down/619?cb=20190612154749',
+                'gun_brand_id' => '7',
+                'item_type_id' => '9',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '53'
             ],
             [
                 'id' => '96',
                 'name' => 'Unicornsplosion',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'A magnificent gift from a dear friend neither forgotten nor forsaken.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/c/cf/Unicornsplosion.jpg/revision/latest/scale-to-width-down/619?cb=20190610150956',
+                'gun_brand_id' => '7',
+                'item_type_id' => '8',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '54'
             ],
             [
                 'id' => '97',
                 'name' => 'Antifection',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'By fire be purged!',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/a/ae/Antifection.jpg/revision/latest/scale-to-width-down/619?cb=20190610021856',
+                'gun_brand_id' => '8',
+                'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '55'
             ],
             [
                 'id' => '98',
                 'name' => 'The Electric Chair',
-                'flavor_text' => '',
-                'image_url' => '',
-                'gun_brand_id' => '',
-                'item_type_id' => '',
+                'flavor_text' => 'The truth is often one\'s best shield.',
+                'image_url' => 'https://vignette.wikia.nocookie.net/borderlands/images/2/24/The_Electric_Chair.jpg/revision/latest/scale-to-width-down/620?cb=20190610004340',
+                'gun_brand_id' => '8',
+                'item_type_id' => '1',
                 'game_id' => '2',
-                'loot_source_id' => ''
+                'loot_source_id' => '56'
             ]
         ]);
     }

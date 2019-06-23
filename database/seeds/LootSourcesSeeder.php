@@ -520,6 +520,15 @@ class ChallengeTypesSeeder extends Seeder
                 'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
                 'updated_at' => Carbon::now()->format('Y-m-d H:i:s')
             ],
+            [
+                'id' => '58',
+                'name' => 'Sandworms',
+                'region' => 'Writhing Deep in Commander Lillith\'s Fight for Sanctuary',
+                'image_url' => '',
+                'game_id' => '2',
+                'created_at' => Carbon::now()->format('Y-m-d H:i:s'),
+                'updated_at' => Carbon::now()->format('Y-m-d H:i:s')
+            ],
         ]);
     }
 }
