@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\DB;
 use App\Models\LootSources;
 use Carbon\Carbon;
 
-class ChallengeTypesSeeder extends Seeder
+class LootSourcesSeeder extends Seeder
 {
     /**
      * Run the database seeds.
