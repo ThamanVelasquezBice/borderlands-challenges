@@ -12,6 +12,11 @@ class LootSources extends Model
 
     public function game()
     {
-        return $this->belongsTo('App\Models\Games');
+        return $this->belongsTo('App\Models\Games', 'game_id');
+    }
+
+    public function legendaries()
+    {
+        return $this->hasMany('App\Models\Legendaries', 'loot_source_id');
     }
 }

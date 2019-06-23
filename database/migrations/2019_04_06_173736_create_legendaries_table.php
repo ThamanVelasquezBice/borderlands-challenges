@@ -21,6 +21,7 @@ class CreateLegendariesTable extends Migration
             $table->integer('gun_brand_id');
             $table->integer('item_type_id');
             $table->integer('game_id');
+            $table->integer('loot_source_id');
             $table->timestamps();
         });
     }

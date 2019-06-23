@@ -12,11 +12,11 @@ class ItemTypes extends Model
 
     public function legendaries()
     {
-        return $this->hasMany('App\Models\Legendaries');
+        return $this->hasMany('App\Models\Legendaries', 'item_type_id');
     }
 
     public function game()
     {
-        return $this->belongsTo('App\Models\Games');
+        return $this->belongsTo('App\Models\Games', 'game_id');
     }
 }

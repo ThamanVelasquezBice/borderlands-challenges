@@ -12,6 +12,6 @@ class BonusRules extends Model
 
     public function description()
     {
-        return $this->belongsTo('App\Models\ChallengeDescriptions');
+        return $this->belongsTo('App\Models\ChallengeDescriptions', 'challenge_description_id');
     }
 }
