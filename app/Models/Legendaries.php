@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class Legendaries extends Model
 {
     protected $fillable = [
-        'name', 'flavor_text', 'image_url', 'gun_brand_id', 'item_type_id', 'game_id'
+        'name', 'flavor_text', 'image_url', 'gun_brand_id', 'item_type_id', 'game_id', 'loot_source_id'
     ];
 
     public function brand()
@@ -23,5 +23,10 @@ class Legendaries extends Model
     public function item_type()
     {
         return $this->belongsTo('App\Models\ItemTypes', 'item_type_id');
+    }
+
+    public function loot_source()
+    {
+        return $this->belongsTo('App\Models\LootSources', 'loot_source_id');
     }
 }
