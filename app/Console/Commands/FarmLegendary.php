@@ -66,7 +66,7 @@ class FarmLegendary extends Command
             $needs_to_be_weapon = false;
         }
 
-        $legendary = $game->legendaries()->find(rand(1, $game->legendaries()->count()));
+        $legendary = $game->legendaries()->inRandomOrder()->first();
 
         if (empty($legendary)) {
             echo "There is no data for that game at the moment.. \r\n";
@@ -76,7 +76,7 @@ class FarmLegendary extends Command
         // we want to keep going until we have a weapon because class mods/relics are not good for farming
         if ($needs_to_be_weapon) {
             while (!$legendary->item_type->is_a_weapon) {
-                $legendary = $game->legendaries()->find(rand(1, $game->legendaries()->count()));
+                $legendary = $game->legendaries()->inRandomOrder()->first();
             }
         }
 
