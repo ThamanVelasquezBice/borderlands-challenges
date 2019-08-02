@@ -12,5 +12,9 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    $games = App\Models\Games::get();
+
+    return view('welcome', compact('games'));
 });
+
+Route::post('/farm', 'FarmingController@getLegendary');
