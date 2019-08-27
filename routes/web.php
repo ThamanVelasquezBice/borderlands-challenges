@@ -18,3 +18,5 @@ Route::get('/', function () {
 });
 
 Route::post('/farm', 'FarmingController@getLegendary');
+
+Route::post('/generate/challenge', 'GeneratorController@generateChallenge');
