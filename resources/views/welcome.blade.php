@@ -9,7 +9,7 @@
 
             <div class="row">
                 <div class="col">
-                    @include('challenges.farming')
+                    <farming games="{{ $games->toJson() }}"></farming>
                 </div>
 
                 <div class="col">

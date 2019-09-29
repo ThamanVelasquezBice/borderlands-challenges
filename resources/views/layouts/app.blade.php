@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="csrf-token" content="{{ csrf_token() }}">
 
         <title>Borderlands Challenge Generator</title>
 
@@ -89,6 +90,10 @@
         </style>
     </head>
     <body>
-        @yield('content')
+        <div id="app">
+            @yield('content')
+        </div>
+        
+        <script type="text/javascript" src="/js/app.js"></script>
     </body>
 </html>

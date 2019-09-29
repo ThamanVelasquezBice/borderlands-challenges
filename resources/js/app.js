@@ -8,6 +8,17 @@
 require('./bootstrap');
 
 window.Vue = require('vue');
+window.axios = require('axios');
+
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { faSpinner, faAlignLeft } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+
+library.add(faSpinner)
+
+Vue.component('font-awesome-icon', FontAwesomeIcon)
+
+Vue.config.productionTip = false
 
 /**
  * The following block of code may be used to automatically register your
@@ -20,7 +31,8 @@ window.Vue = require('vue');
 // const files = require.context('./', true, /\.vue$/i);
 // files.keys().map(key => Vue.component(key.split('/').pop().split('.')[0], files(key).default));
 
-Vue.component('example-component', require('./components/ExampleComponent.vue').default);
+Vue.component('example', require('./components/ExampleComponent.vue').default);
+Vue.component('farming', require('./components/FarmingComponent.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
