@@ -13,7 +13,7 @@
                 </div>
 
                 <div class="col">
-                    @include('challenges.generator')
+                    <challenge games="{{ $games->toJson() }}"></challenge>
                 </div>
             </div>
         </div>

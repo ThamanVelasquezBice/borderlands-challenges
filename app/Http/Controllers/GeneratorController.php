@@ -63,21 +63,19 @@ class GeneratorController extends Controller
         $bonus_rules = $request->get('bonus_rules');
 
         if (empty($bonus_rules)) {
-            // return response()->json([
-            //     'challenge' => $issued_challenge,
-            //     'description' => $description
-            // ], 200);
-            return view('challenges.generated_challenge', compact('issued_challenge', 'description', []));
+            return response()->json([
+                'challenge' => $issued_challenge,
+                'description' => $description,
+                'bonus_rules' => false
+            ], 200);
         }
 
         $rules = BonusRules::inRandomOrder()->limit($bonus_rules)->get();
 
-        // return response()->json([
-        //     'challenge' => $issued_challenge,
-        //     'description' => $description,
-        //     'bonus_rules' => $rules
-        // ], 200)
-
-        return view('challenges.generated_challenge', compact('issued_challenge', 'description', 'rules'));
+        return response()->json([
+            'challenge' => $issued_challenge,
+            'description' => $description,
+            'bonus_rules' => $rules
+        ], 200);
     }
 }

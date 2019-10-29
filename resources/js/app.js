@@ -33,6 +33,7 @@ Vue.config.productionTip = false
 
 Vue.component('example', require('./components/ExampleComponent.vue').default);
 Vue.component('farming', require('./components/FarmingComponent.vue').default);
+Vue.component('challenge', require('./components/ChallengeComponent.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to

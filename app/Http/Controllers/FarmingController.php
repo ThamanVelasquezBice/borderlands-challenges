@@ -53,6 +53,10 @@ class FarmingController extends Controller
             }
         }
 
-        return view('challenges.farming_results', compact('legendary', 'loot_source', 'region'));
+        return response()->json([
+            'legendary' => $legendary,
+            'loot_source' => $loot_source,
+            'region' => $region
+        ], 200);
     }
 }
