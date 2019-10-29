@@ -9,11 +9,11 @@
 
             <div class="row">
                 <div class="col">
-                    @include('challenges.farming')
+                    <farming games="{{ $games->toJson() }}"></farming>
                 </div>
 
                 <div class="col">
-                    @include('challenges.generator')
+                    <challenge games="{{ $games->toJson() }}"></challenge>
                 </div>
             </div>
         </div>
